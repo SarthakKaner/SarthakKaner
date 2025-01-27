@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarthakkaner7777@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FiF8xJ6vCK6Wrl4j69TvDNCgfB-0igicDgmEaIXRr98/edit?usp=sharing](https://docs.google.com/document/d/1FiF8xJ6vCK6Wrl4j69TvDNCgfB-0igicDgmEaIXRr98/edit?usp=sharing)
+- 📄 Know about my experiences - <a href="https://docs.google.com/document/d/1FiF8xJ6vCK6Wrl4j69TvDNCgfB-0igicDgmEaIXRr98/edit?usp=sharing](https://docs.google.com/document/d/1FiF8xJ6vCK6Wrl4j69TvDNCgfB-0igicDgmEaIXRr98/edit?usp=sharing" target="_blank" >Resume </a>
 
 - ⚡ Fun fact **Jack of all trades, master of some**
 
