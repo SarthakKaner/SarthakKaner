@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://sarthakkaner.github.io/](https://sarthakkaner.github.io/)
+- 👨‍💻 You can get to know me better by visiting my portfolio - [Sarthak Kaner](https://sarthakkaner.netlify.app/)
 
 - 💬 Ask me about **React, Spring Boot, DSA, CP**
 
