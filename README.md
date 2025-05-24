@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkaner&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkaner" /> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **GOLang**
 
 - 👨‍💻 You can get to know me better by visiting my portfolio - [Sarthak Kaner](https://sarthakkaner.netlify.app/)
 
