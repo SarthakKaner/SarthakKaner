@@ -47,11 +47,10 @@
 <p align="left">
 <a href="https://spring.io/" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <!-- Django -->
-<!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-       alt="django" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40">
 </a>
+
 
 <!-- Gin -->
 <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
