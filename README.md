@@ -46,8 +46,16 @@
 <h4>Backend Development</h4>
 <p align="left">
 <a href="https://spring.io/" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+</a>
+
+<!-- Gin (using text badge as Gin has no official icon in devicon) -->
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/gin-gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="gin-gonic" />
+</a>
+
 </p>
 
 <h4>Database Management</h4>
